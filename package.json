@@ -1,0 +1,15 @@
+{
+  "name": "cypress-automation-frimework",
+  "version": "1.0.0",
+  "description": "cypress automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Arefiev",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^7.4.0"
+  }
+}
